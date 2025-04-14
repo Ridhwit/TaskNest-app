@@ -96,6 +96,6 @@ Built to be responsive, efficient, and user-friendly, TaskFlow ensures productiv
 - 📆 Calendar integration for a richer UI  
 - 🌙 Dark mode support  
 - 📊 Dashboard with productivity analytics  
-- 🧪 Add more test coverage (unit, integration)  
+ 
 
 ---
