@@ -53,12 +53,12 @@ Built to be responsive, efficient, and user-friendly, TaskFlow ensures productiv
 - **Flutter SDK**
 - Dart programming language
 - Shared Preferences for local session storage
-- Provider/Bloc (state management as per implementation)
+- Flutter Bloc (state management as per implementation)
 
 ### 🌐 Backend (Node.js)
 - **Node.js** with **Express.js**
-- MongoDB (NoSQL database)
-- Mongoose for schema handling
+- PostgreSQL
+- Drizzle ORM
 - JSON Web Token (JWT) for authentication
 
 ---
@@ -70,17 +70,16 @@ Built to be responsive, efficient, and user-friendly, TaskFlow ensures productiv
 - `shared_preferences`: to persist login state  
 - `connectivity_plus: ^6.1.0`: to monitor internet connectivity  
 - `uuid: ^4.5.1`: for generating unique task IDs  
-- `flex_color_picker: ^3.6.0`: for customizable color selection (for tasks/themes)  
-- `provider` or `flutter_bloc`: for state management  
+- `flex_color_picker: ^3.6.0`: for customizable color selection (for tasks/themes)   
 - `sqflite` or `hive`: for local storage  
 - `intl`: for date formatting  
 - `flutter_bloc`: for efficient and scalable state management  
 
 ### ⚙️ Node.js Packages
-- `express`  
-- `mongoose`  
+- `express`    
 - `jsonwebtoken`  
-- `cors`  
+- `cors`
+- 'drizzle-orm'
 - `dotenv`  
 - `bcryptjs` (for password hashing)  
 - `nodemon` (dev environment)  
