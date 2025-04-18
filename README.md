@@ -79,7 +79,7 @@ Built to be responsive, efficient, and user-friendly, TaskFlow ensures productiv
 - `express`    
 - `jsonwebtoken`  
 - `cors`
-- 'drizzle-orm'
+- `drizzle-orm`
 - `dotenv`  
 - `bcryptjs` (for password hashing)  
 - `nodemon` (dev environment)  
