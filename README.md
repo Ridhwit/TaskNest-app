@@ -58,7 +58,7 @@ Built to be responsive, efficient, and user-friendly, TaskFlow ensures productiv
 ### 🌐 Backend (Node.js)
 - **Node.js** with **Express.js**
 - PostgreSQL
-- Drizzle ORM
+- SQLite
 - JSON Web Token (JWT) for authentication
 
 ---
@@ -92,7 +92,6 @@ Built to be responsive, efficient, and user-friendly, TaskFlow ensures productiv
 - 🔔 Implement **reminder alerts** for due tasks  
 - 🗂️ Add **categories/labels/tags** for tasks  
 - 👥 Multi-user or team collaboration features  
-- 📆 Calendar integration for a richer UI  
 - 🌙 Dark mode support  
 - 📊 Dashboard with productivity analytics  
  
