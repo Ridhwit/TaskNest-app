@@ -71,7 +71,7 @@ Built to be responsive, efficient, and user-friendly, TaskFlow ensures productiv
 - `connectivity_plus: ^6.1.0`: to monitor internet connectivity  
 - `uuid: ^4.5.1`: for generating unique task IDs  
 - `flex_color_picker: ^3.6.0`: for customizable color selection (for tasks/themes)   
-- `sqflite` or `hive`: for local storage  
+- `sqflite`: for local storage  
 - `intl`: for date formatting  
 - `flutter_bloc`: for efficient and scalable state management  
 
